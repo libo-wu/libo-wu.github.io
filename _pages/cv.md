@@ -11,4 +11,5 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://libowu.com/files/libowu_cv.pdf)
 
-<embed src="http://libowu.com/files/libowu_cv.pdf" width="650" height="1800" type='application/pdf'> 
+
+<embed src="https://libowu.com/files/libowu_cv.pdf" width="650" height="1800" type='application/pdf'> 
