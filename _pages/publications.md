@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Journals
-======
+---
 * <b>Liquid Crystal Enabled Electronical Shutter for
 Stationary Human Presence Detection Using Pyroelectric Infrared Sensors</b> <br> 
 <b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
@@ -27,19 +27,19 @@ Energy Flow of a Shuttered Passive Infrared Sensor</b> <br>
 <i>Sensors Journal IEEE, vol. 19, no. 1, pp. 47-57, 2019. [doi: 10.1109/JSEN.2018.2875659](https://doi.org/10.1109/JSEN.2018.2875659)</i>. 
 
 Conference Proceedings
-======
+---
 * <b>Compressive Sensing Based Indoor Human Positioning Using A Single Thermopile
 Point Detector</b> <br>
 <b>Libo Wu</b>, Ya Wang.
 <i>12th International Workshop on Structural Health Monitoring, September 10-12, 2019,
-Stanford, California, USA.</i> 
+Stanford, California, USA.</i> <b>[slides](http://libowu.com/files/IWSHM2019.pdf)</b>
 * <b>Shuttered Passive Infrared Sensor for Occupancy Detection: Exploring A Low
 Power Electro-Mechanical Driving Approach</b> <br>
 <b>Libo Wu</b>, Ya Wang.
-<i>ASME SMASIS conference, 2018, San Antonio, Texas, USA (Oral presentation)</i>. 
+<i>ASME SMASIS conference, 2018, San Antonio, Texas, USA (Oral presentation)</i>. <b>[slides](http://libowu.com/files/SMASIS2018.pdf)</b>
 
 Patents
-======
+---
 * <b>Shuttered Passive Infrared Sensor Apparatus with A Low Power LWIR Liquid
 Crystal Optical Modulator for Stationary and Moving Occupancy Detection</b> <br>
 <b>Libo Wu</b>, Ya Wang.
