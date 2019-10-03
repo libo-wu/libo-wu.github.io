@@ -10,7 +10,7 @@ main:
     url: /portfolio/
         
   - title: "Blogs"
-    url: /posts/
+    url: /year-archive/
     
   - title: "Contact"
     url: /contact/
