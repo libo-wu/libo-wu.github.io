@@ -12,4 +12,4 @@ redirect_from:
 [Click to View My Up-to-date Curriculum Vitae [PDF]](https://libowu.com/files/Resume.pdf)
 
 
-<embed src="https://libowu.com/files/Resume.pdf" width="650" height="800" type='application/pdf'> 
+<embed src="https://libowu.com/files/Resume.pdf" width="750" height="800" type='application/pdf'> 
