@@ -10,12 +10,11 @@ Journals
 * <b>Liquid Crystal Enabled Electronical Shutter for
 Stationary Human Presence Detection Using Pyroelectric Infrared Sensors</b> <br> 
 <b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
-<i>For future submission, 2019</i>.
+<i>submitted to IEEE System Journal, 2019</i>.
 
-* <b>Compressive Sensing Based Indoor Occupancy Positioning Using A Single
-Thermopile Point Detector with a Coded Binary Mask</b> <br> 
+* <b>Compressive Sensing Based Indoor Occupancy Positioning Using A Single Thermopile Point Detector with a Coded Binary Mask</b> <br> 
 <b>Libo Wu</b>, Ya Wang.
-<i>submitted to IEEE Sensor Letter, 2019</i>.
+<i>IEEE Sensor Letter, 2019. [doi: 10.1109/LSENS.2019.2955125](https://doi.org/10.1109/LSENS.2019.2955125)</i>.
 
 * <b>Detection and Localization of Individuals by Monitoring Nonlinear
 Energy Flow of a Shuttered Passive Infrared Sensor</b> <br>
