@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 * I am a Ph.D. student in the [Mechanical Engineeing](https://engineering.tamu.edu/mechanical/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Ya Wang](https://engineering.tamu.edu/mechanical/profiles/wang-ya.html).
-* My research interests lie in the general area of embedded systems, particularly in smart devices, sensors, indoor human detection, as well as machine learning, signal processing, electric circuit design, PCB design, CAD design.
-* I received my Bachelor's degree in [University of Science and Technology of China](https://en.ustc.edu.cn/) at 2015. From 2015-2018, I was a Ph.D. candidate in [Electrical and Computer Engineering](https://www.stonybrook.edu/electrical/) at [Stony Brook University](https://www.stonybrook.edu/). 
+* From 2015-2018, I was a Ph.D. candidate in [Electrical and Computer Engineering](https://www.stonybrook.edu/electrical/) at [Stony Brook University](https://www.stonybrook.edu/). I received my Bachelor's degree in [University of Science and Technology of China](https://en.ustc.edu.cn/) at 2015. 
+* My research interests lie in the general area of embedded systems, particularly in smart devices, sensors, indoor human detection, as well as IoT and machine learning.
+
 * [[My Curriculum Vitae](http://libowu.com/files/Resume.pdf)]
 [[Google Scholar](https://scholar.google.com/citations?user=UbxNphYAAAAJ&hl=en&authuser=1)]
 
