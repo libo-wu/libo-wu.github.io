@@ -7,10 +7,15 @@ author_profile: true
 
 Journals
 ---
-* <b>Liquid Crystal Enabled Electronical Shutter for
-Stationary Human Presence Detection Using Pyroelectric Infrared Sensors</b> <br> 
+
+* <b>Liquid Crystal Infrared Shutter for True Human Presence Detection Using Pyroelectric Infrared Sensors</b> <br> 
 <b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
-<i>submitted to IEEE System Journal, 2019</i>.
+<i>submitted to IEEE Sensors Journal, 2020</i>.
+      
+
+* <b>SLEEPIR: Synchronized Low-Energy Electronically-Chopped PIR Sensor for True Presence Detection</b> <br> 
+<b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
+<i>Accepted by IEEE Sensors Letters, 2020</i>.
 
 * <b>Compressive Sensing Based Indoor Occupancy Positioning Using A Single Thermopile Point Detector with a Coded Binary Mask</b> <br> 
 <b>Libo Wu</b>, Ya Wang.
