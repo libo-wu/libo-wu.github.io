@@ -19,8 +19,10 @@ redirect_from:
 
 News
 ======
-* Sept 10-12, 2019: I attended [IWSHM 2019](http://web.stanford.edu/group/sacl/workshop/IWSHM2019/index.html) and presented my work on ["Compressive Sensing Based Indoor Human Positioning Using A Single Thermopile Point Detector"](http://libowu.com/files/IWSHM2019.pdf).
-* July 8-10, 2019: I attended [2019 ARPA-E Energy Innovation Summit](https://www.arpae-summit.com/).
-* Sept 10-12, 2018: I attended [SMASIS 2018](https://event.asme.org/SMASIS) and presented my work on ["Shuttered Passive Infrared Sensor for Occupancy Detection: Exploring a Low Power Electro-Mechanical Driving Approach"](http://libowu.com/files/SMASIS2018.pdf).
+* I will join Marvell Semiconductor, Inc. as a senior embedded software engineer from June 2021！ 
+* Feb. 22, 2021: I passed my PhD defense!
+* Sept. 10-12, 2019: I attended [IWSHM 2019](http://web.stanford.edu/group/sacl/workshop/IWSHM2019/index.html) and presented my work on ["Compressive Sensing Based Indoor Human Positioning Using A Single Thermopile Point Detector"](http://libowu.com/files/IWSHM2019.pdf).
+* Jul. 8-10, 2019: I attended [2019 ARPA-E Energy Innovation Summit](https://www.arpae-summit.com/).
+* Sept. 10-12, 2018: I attended [SMASIS 2018](https://event.asme.org/SMASIS) and presented my work on ["Shuttered Passive Infrared Sensor for Occupancy Detection: Exploring a Low Power Electro-Mechanical Driving Approach"](http://libowu.com/files/SMASIS2018.pdf).
 
 

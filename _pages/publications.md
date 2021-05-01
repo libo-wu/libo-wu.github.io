@@ -8,18 +8,18 @@ author_profile: true
 Journals
 ---
 
-* <b>Liquid Crystal Infrared Shutter for True Human Presence Detection Using Pyroelectric Infrared Sensors</b> <br> 
-<b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
-<i>submitted to IEEE Sensors Journal, 2020</i>.
+* <b>Stationary and Moving Occupancy Detection Using the SLEEPIR Sensor Module and Machine Learning</b> <br> 
+<b>Libo Wu</b>, Ya Wang.
+<i>IEEE Sensors Journal, 2020 [10.1109/JSEN.2021.3071402](https://doi.org/10.1109/JSEN.2021.3071402)</i>.
       
 
 * <b>SLEEPIR: Synchronized Low-Energy Electronically-Chopped PIR Sensor for True Presence Detection</b> <br> 
 <b>Libo Wu</b>, Fangwang Gou, Shin-Tson Wu, Ya Wang.
-<i>Accepted by IEEE Sensors Letters, 2020</i>.
+<i>IEEE Sensors Letters, vol. 4, no. 3, 2020. [doi: 10.1109/LSENS.2020.2976801](https://doi.org/10.1109/LSENS.2020.2976801)</i>.
 
 * <b>Compressive Sensing Based Indoor Occupancy Positioning Using A Single Thermopile Point Detector with a Coded Binary Mask</b> <br> 
 <b>Libo Wu</b>, Ya Wang.
-<i>IEEE Sensor Letter, 2019. [doi: 10.1109/LSENS.2019.2955125](https://doi.org/10.1109/LSENS.2019.2955125)</i>.
+<i>IEEE Sensor Letter, vol. 3, no. 12, 2019. [doi: 10.1109/LSENS.2019.2955125](https://doi.org/10.1109/LSENS.2019.2955125)</i>.
 
 * <b>Detection and Localization of Individuals by Monitoring Nonlinear
 Energy Flow of a Shuttered Passive Infrared Sensor</b> <br>
